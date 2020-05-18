@@ -24,6 +24,3 @@ Are there foods that belong to different groups but fall into the same cluster (
 
 Analaysis:
 
-
-
-![Image of Yaktocat](/images/visualization-101.png)
