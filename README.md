@@ -26,4 +26,4 @@ Analaysis:
 
 
 
-![Image of Yaktocat](https://sunidhit.github.com/images/visualization-101.png)
+![Image of Yaktocat](https://github.com/sunidhit/USDAFoodCompositionAnalysis/tree/master/images/visualization-101.png)
