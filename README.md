@@ -96,14 +96,23 @@ We used Parallel Coordinates to identify the Outlier and its nutrient compositio
 
 # Summary:
 
-1.Food groups were clustered into 12 clusters by vitamins, minerals and macronutrients.
-2.Each food-group was present in more than 6 clusters.
-3.In Vitamins cluster, Cluster 11 was high in Vit B12 , Vit B6 , Vit D.
-4.In Minerals cluster, Cluster 8 was high in Copper, Iron, Magnesium, Manganese, Phosphorus and Potassium.
-5.In Macronutrients, Cluster 0 is high in FA_Mono, FA_Poly, FA_Sat, Fiber_TD, Fiber_Tot and Lipid_Tot
-6.In Vitamins clusters, outliers were identified in cluster 1, 5 and 8
-7.In Minerals clusters, outliers were identified in cluster 1, 3 and 5
-8.In Macronutrients clusters , outliers were identified in cluster 0 , 1 and 9.
+1. Food groups were clustered into 12 clusters by vitamins, minerals and macronutrients.
+2. Each food-group was present in more than 6 clusters.
+3. In Vitamins cluster, Cluster 11 was high in Vit B12 , Vit B6 , Vit D.
+4. In Minerals cluster, Cluster 8 was high in Copper, Iron, Magnesium, Manganese, Phosphorus and Potassium.
+5. In Macronutrients, Cluster 0 is high in FA_Mono, FA_Poly, FA_Sat, Fiber_TD, Fiber_Tot and Lipid_Tot
+6. In Vitamins clusters, outliers were identified in cluster 1, 5 and 8.
+   1. Cluster 1 : Outlier is **BreakFast Cereal** and was high in *RIBOFLAVIN*
+   2. Cluster 5 : Outlier is **Baby Foods** having high *RIBOFLAVIN AND VIT B6* and **Cereal grains and pasta** having high *Vit E*
+   3. Cluster 8 : Outlier is **Finfish and Shellfish products** having high *Vit B12*
+7. In Minerals clusters, outliers were identified in cluster 1, 3 and 5.
+   1. Cluster 1 : Two Outlier is **Finfish and Shellfish products** having high *Copper* content.
+   2. Cluster 3 : Outlier is **Sweets** and **Vegetables and vegetable products** having high *Copper* content.
+   3. Cluster 5 : Outlier is **Vegetables and vegetable products** having high *Copper* content and **Cereal grains and pasta** having high *Iron* content.
+8. In Macronutrients clusters , outliers were identified in cluster 0 , 1 and 9.
+   1. Cluster 0 : One outlier **Sweets** having more *FA_SAT* than remaining instances.
+   2. Cluster 1 : Outlier is a **Dairy Product** having high *Protein*
+   3. Cluster 9 : Outlier is as **Vegetable product** having high *FA_POLY* and *FIBER_TD*.
 
 
 
