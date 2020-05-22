@@ -60,3 +60,9 @@ We plotted the median of all nutrients in a cluster to analyze the cluster wise 
 
 ![Clusters](/images/visualization-122.png)
 
+
+
+# How do Clusters compare to different foodgroups:
+
+![Vitamins](/images/visualization-107.png)  ![Minerals](/images/visualization-114.png). ![Macronutrients](/images/visualization-121.png).
+
