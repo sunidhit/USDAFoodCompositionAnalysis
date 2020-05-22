@@ -31,15 +31,15 @@ After TSNE :
 
 ### Clustering by Vitamins :
 
-! [Clusters] /images/visualization-106.png
+! [Clusters](/images/visualization-106.png)
 
 ### Clustering by Minerals :
 
-![Clusters] /images/visualization-113.png
+![Clusters](/images/visualization-113.png)
 
 ### Clustering by Macronutrients :
 
-! [Clusters] /images/visualization-120.png
+! (/images/visualization-120.png)
 
 
 
