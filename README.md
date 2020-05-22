@@ -64,5 +64,49 @@ We plotted the median of all nutrients in a cluster to analyze the cluster wise 
 
 # How do Clusters compare to different foodgroups:
 
-![Vitamins](/images/visualization-107.png)  ![Minerals](/images/visualization-114.png). ![Macronutrients](/images/visualization-121.png).
+![Vitamins](/images/visualization-107.png) ![Minerals](/images/visualization-114.png) ![Macronutrients](/images/visualization-121.png)
+
+
+# Outlier Detection and Interpretation:
+
+We used Parallel Coordinates to identify the Outlier and its nutrient composition in each clusters formed above.
+
+
+### Vitamins Clusters Outlier :
+
+![Clusters](/images/visualization-109.png)
+![Clusters](/images/visualization-110.png)
+![Clusters](/images/visualization-111.png)
+
+
+### Minerals Clusters Outlier :
+
+![Clusters](/images/visualization-116.png)
+![Clusters](/images/visualization-117.png)
+![Clusters](/images/visualization-118.png)
+
+
+### Macronutrients Clusters Outlier :
+
+![Clusters](/images/visualization-123.png)
+![Clusters](/images/visualization-124.png)
+![Clusters](/images/visualization-125.png)
+
+
+
+# Summary:
+
+1.Food groups were clustered into 12 clusters by vitamins, minerals and macronutrients.
+2.Each food-group was present in more than 6 clusters.
+3.In Vitamins cluster, Cluster 11 was high in Vit B12 , Vit B6 , Vit D.
+4.In Minerals cluster, Cluster 8 was high in Copper, Iron, Magnesium, Manganese, Phosphorus and Potassium.
+5.In Macronutrients, Cluster 0 is high in FA_Mono, FA_Poly, FA_Sat, Fiber_TD, Fiber_Tot and Lipid_Tot
+6.In Vitamins clusters, outliers were identified in cluster 1, 5 and 8
+7.In Minerals clusters, outliers were identified in cluster 1, 3 and 5
+8.In Macronutrients clusters , outliers were identified in cluster 0 , 1 and 9.
+
+
+
+
+
 
