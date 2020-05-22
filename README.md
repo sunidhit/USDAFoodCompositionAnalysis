@@ -20,8 +20,6 @@ Are there foods that belong to different groups but fall into the same cluster (
 
 
 
-Analysis:
-
 
 # Clustering:
 
