@@ -20,7 +20,26 @@ Are there foods that belong to different groups but fall into the same cluster (
 
 
 
+Analysis:
 
 
-Analaysis:
+# Clustering:
+
+We ran TSNE on the dataset with the relevant columns, and identified clusters via K-means clustering. Elbow method was used to identify optimal cluster number: k=12
+
+After TSNE :
+
+### Clustering by Vitamins :
+
+! /images/visualization-106.png
+
+### Clustering by Minerals :
+
+! /images/visualization-113.png
+
+### Clustering by Macronutrients :
+
+! /images/visualization-120.png
+
+
 
