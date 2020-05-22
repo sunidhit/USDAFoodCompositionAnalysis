@@ -43,3 +43,20 @@ After TSNE :
 
 
 
+# Clusters Explained By Its Nutrients:
+
+We plotted the median of all nutrients in a cluster to analyze the cluster wise spread of nutrients. The data was normalized in preprocessing stage.
+
+
+### Vitamins Clusters explained :
+
+![Clusters](/images/visualization-108.png)
+
+### Minerals Clusters explained :
+
+![Clusters](/images/visualization-115.png)
+
+### Macronutrients Clusters explained : :
+
+![Clusters](/images/visualization-122.png)
+
