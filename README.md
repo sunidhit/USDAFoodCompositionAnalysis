@@ -17,3 +17,10 @@ Are there foods that belong to different groups but fall into the same cluster (
 
 
 4. Interpretation. For the clusters and outliers identified above, what aspects of their food composition make them different from the others and similar to the food that belong to the same cluster (that is, what makes a cluster (or outlier) unique in terms of their data values and distribution and how does it compare to the other clusters)?
+
+
+
+
+
+Analaysis:
+
